@@ -4,8 +4,8 @@
 
 ## 🙋‍♂️ Connect with me
 
-[![Telegram](https://img.shields.io/badge/iShafaey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iMoSayed10 "Telegram")
-[![E-mail](https://img.shields.io/badge/iShafaey@gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iMosayed20@gmail.com?subject=hi "E-mail")
+[![Telegram](https://img.shields.io/badge/iMoSayed10-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iMoSayed10 "Telegram")
+[![E-mail](https://img.shields.io/badge/iMosayed20@gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iMosayed20@gmail.com?subject=hi "E-mail")
 [![Dev.to](https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iShafaey "Dev.to iShafaey")
 
 ## 🛠️ My favorite tools
