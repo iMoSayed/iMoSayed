@@ -1,54 +1,61 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Sayed</h1>
-<h3 align="center">Backend Developer | PHP • Laravel • MySQL</h3>
-<p align="center">
-  Building practical web applications and management systems from Egypt 🇪🇬
-</p>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Mohamed Sayed](https://montju.com)  <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iShafaey&style=flat-square">
+
+**Passionate Web Developer from Egypt, specialized in Laravel, with over 2 years of hands-on experience in building scalable applications.**
+
+## 🙋‍♂️ Connect with me
+
+[![Telegram](https://img.shields.io/badge/iShafaey-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iMoSayed10 "Telegram")
+[![E-mail](https://img.shields.io/badge/iShafaey@gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iMosayed20@gmail.com?subject=hi "E-mail")
+[![Dev.to](https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iShafaey "Dev.to iShafaey")
+
+## 🛠️ My favorite tools
+
+### 💻 OS and Software and tools
+![Atom](https://img.shields.io/badge/Atom-5caf79?style=for-the-badge&logo=Atom&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-6DB33F?style=for-the-badge&logo=PhpStorm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-6E4ABC?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=Codepen&logoColor=white)
+![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/stack_overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+----
+
+### 👨‍💻 Programming / Markup languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SVG+XML](https://img.shields.io/badge/SVG+XML-e0982c?style=for-the-badge&logo=svg&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
+
+------
+### 🧰 Frameworks and libraries
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=jekyll&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-2abfb3?style=for-the-badge&logo=Livewire&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+
+-----
+### 🗄️ Other things that I like to work with.
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![amazon_aws](https://img.shields.io/badge/amazon_aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+
 ---
-👨‍💻 About Me
-🔭 I build web applications and business management systems.
-🌱 I’m continuously improving my backend development skills.
-💻 My main stack is PHP, Laravel, Livewire, and MySQL.
-🧰 I use Git, GitHub, Composer, and Postman in my workflow.
-📍 Based in Hurghada, Egypt.
----
-🛠️ My Favorite Tools
-💻 Development Tools
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
-</p>
-👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-🧰 Frameworks & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-</p>
----
-📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iMoSayed&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoSayed&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
----
-<p align="center">
-  <i>Always learning, building, and getting better. 🚀</i>
-</p>
+
+### 📊 Github stats
+![Linux](https://github-readme-stats.vercel.app/api?username=iMoSayed&show_icons=true&theme=nord)
